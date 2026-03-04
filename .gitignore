@@ -1,0 +1,91 @@
+# IDE and Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+.project
+.classpath
+.settings/
+*.code-workspace
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Build outputs
+dist/
+build/
+out/
+*.tsbuildinfo
+
+# Environment files
+.env
+.env.*
+!.env.example
+appsettings.*.json
+!appsettings.example.json
+
+# Dependencies
+node_modules/
+packages/
+*.nupkg
+
+# Test coverage
+coverage/
+.coverage
+htmlcov/
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+.temp/
+tmp/
+
+# Database
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+
+# Debug files
+*.pdb
+*.dll
+*.exe
+*.so
+*.dylib
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# System Files
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
+*.lnk 
+
+InvoiceManagementSystem1.zip
