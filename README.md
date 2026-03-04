@@ -13,7 +13,7 @@ A state-of-the-art, full-stack application for managing invoices, built with **A
 ### Create Item Modal
 <img src="assets/create_item.png" alt="Create Item Modal" width="800"/>
 
-### Create Invoice Form
+### Create Invoice Form 
 <img src="assets/create_invoice.png" alt="Create Invoice Form" width="800"/>
 
 ### Beautiful Programmatic PDF Exports
